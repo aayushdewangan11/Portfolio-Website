@@ -241,7 +241,7 @@ const Home = () => {
                             </HStack>
                         </Flex>
                         <Flex gap={["10px", "20px", "20px", "40px"]}>
-                            <Link href='https://wa.me/918101303481' target="_blank">
+                            <Link href='https://wa.me/919340758510' target="_blank">
                                 <Tooltip label='+91 9340758510'>
                                     <Box className='social-icons'>
                                         <Box>
