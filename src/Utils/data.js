@@ -154,8 +154,8 @@ export const projects = [
         image: "https://user-images.githubusercontent.com/79148304/253681001-b6dd508b-75d9-479a-a12b-84f6cad24bf8.png",
         description: "A weather application that leverages the power of the OpenWeatherMap API to deliver real-time weather updates and forecasts.",
         techStack: ["React", "HTML", "CSS", "Open Weather API", "chakra-ui"],
-        github: "https://github.com/Atanu8250/GadgetRambo",
-        liveDemo: "https://gadget-rambo.vercel.app/"
+        github: "https://github.com/aayushdewangan11/Weather-App",
+        liveDemo: "https://weather-app-navy-alpha.vercel.app/"
     },
     {
         id: 5,
